@@ -3,7 +3,7 @@ layout: default
 title: FAIR Research Data - Best Practice and Tools
 ---
 
-> [There is no point in wasting good thoughts on bad data.](https://wellcome.ac.uk/news/sir-john-sulston-and-human-genome-project)
+> [**There is no point in wasting good thoughts on bad data.**](https://wellcome.ac.uk/news/sir-john-sulston-and-human-genome-project)
 
 
 Do you want your research to contribute to knowledge?  
@@ -15,7 +15,7 @@ then you should want to organize your work so that its products are
 Findable, Accessible, Interoperable, and Reusable: in other words, **FAIR**.
 
 This site is intended to provide access to resources relevant to FAIR research.
-To start with, we provide tools for:
+To start with, we provide tools for working with:
 
-* [Big Data Bags (**BDBags**)](https://github.com/fair-research/bdbag): An exchange format and associated tools for exchanging large and complex data collections.
+* [Big Data Bags (**BDBags**)](https://github.com/fair-research/bdbag): An exchange format for exchanging large and complex data collections.
 * [Minimum viable identifiers (**Minids**)](https://github.com/fair-research/minid): Lightweight identifiers that can be easily created, resolved, and used.
