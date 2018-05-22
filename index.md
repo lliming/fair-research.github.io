@@ -19,3 +19,7 @@ To start with, we provide tools for working with:
 
 * [Big Data Bags (**BDBags**)](https://github.com/fair-research/bdbag): An exchange format for exchanging large and complex data collections.
 * [Minimum viable identifiers (**Minids**)](https://github.com/fair-research/minid): Lightweight identifiers that can be easily created, resolved, and used.
+
+---
+
+This work was supported in part by NIH grant 1U54EB020406-01.
