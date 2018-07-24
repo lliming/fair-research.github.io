@@ -15,7 +15,7 @@ Work supporting the [NIH Data Commons Pilot Phase Consortium](https://www.nihdat
    automate the use of Minids representing input databags and generate
    output BDBags along with provenance and performance metric that can
    be used to validate reproducibility.
-*  [4M.3.FULLSTACKS: Pilot Users Onboarded](globus-auth.html) : A
+*  [4M.3.FULLSTACKS: Pilot Users Onboarded](globus-auth.md) : A
    description of
    [Globus Auth](https://docs.globus.org/api/auth/developer-guide/)
    and how to join the Globus Group used for authorization to data
