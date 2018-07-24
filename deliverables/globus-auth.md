@@ -20,6 +20,8 @@ Click on the button below to locate the DCPPC Demo Users group in Globus. *If yo
 If you are already logged in to Globus, you can skip directly to Step 5. 
 Clicking the button above will require you to login. You’ll see a Globus login page where you can choose your identity provider.
 
+![Login page](login.png)
+
 Choose one of the following and log in accordingly:
 * __Your academic/research institution__, if it’s in the list. (Most are.)
 * __National Institutes of Health__, if you have an iTrust ID. (eRA Commons is not yet supported by Globus, but it will be soon.)
@@ -28,27 +30,39 @@ Choose one of the following and log in accordingly:
 
 __NOTE:__ If you see a page like the one below and have an account you've used before with Globus, click "Link to an existing account." If not, click "No thanks, continue." *If you’ve used Globus before with a different identity and you link that identity here, Globus will recall your information and you’ll skip directly to Step 5.*
 
+![Link account page](existingaccount.png)
+
 ## Step 3: Complete Short Signup Form
 
 Complete your signup by providing your organization, agreeing to our terms of service, etc.
+
+![Sign up page](signup.png)
 
 ## Step 4: Provide Consent
 
 A consent page appears. Globus is asking for permission to use the identity returned by your identity provider, manage your group memberships, and transfer files for you. Click "Allow".
 
+![Consents page](consents.png)
+
 ## Step 5: Join Group
 
 You will now see the DCPPC Demo Users group page. Click "Join Group”.
 
+![Join group page](joingroup.png)
+
 ## Step 6: Submit Application to Join
 
 Fill in some informational fields and click "Submit Application to Join.”
+
+![Join group page](joingroup2.png)
 
 You’ll receive an email notification that your membership is pending.
 
 ## Approval
 
 Once the administrator approves your application, you’ll receive email confirmation like the one below, stating that your membership has been approved. You will now have access to Globus’ DCPPC Demos.
+
+![Group membership approval page](approval.png)
 
 Now that you are a member of the DCPPC Demo User group, you can click the “Login” button on the Globus FAIR Data Portal and you’ll automatically have access to the DCPPC data allowed by the group.
 
