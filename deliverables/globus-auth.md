@@ -11,7 +11,9 @@ This page describes how to get access to the Globus DCPPC Demos and related data
 
 Click on the button below to locate the DCPPC Demo Users group in Globus. *If you aren’t already logged in to Globus, you’ll be asked to login when you click this link. See Step 2. If you’re already logged in to Globus, you can skip directly to Step 5.*
 
-<a href="https://www.globus.org/app/groups/01579fd6-6fdc-11e8-8d99-0a043b872764" target="_blank">Button</a>
+<a href="https://www.globus.org/app/groups/01579fd6-6fdc-11e8-8d99-0a043b872764" target="_blank">
+  <img src="demogroup.png" alt="Globus DCPPC Demo Users Group" style="width:286px;height:65px;border:0;">
+</a>
 
 ## Step 2: Choose How to Log In
 
