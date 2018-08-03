@@ -20,6 +20,12 @@ Work supporting the [NIH Data Commons Pilot Phase Consortium](https://www.nihdat
    [Globus Auth](https://docs.globus.org/api/auth/developer-guide/)
    and how to join the Globus Group used for authorization to data
    managed by Team Argon.
+*  [4M.4.FULLSTACKS: Cross-stack Compute](cross-stack-4m.html) : A
+   quickstart tutorial that walks through a quick submission of 5
+   downsampled TOPMed CRAM input files using a TOPMed Alignment workflow
+   in CWL. It uses a portal to index and search the input datasets and
+   submits to a WES (Workflow Execution Service - GA4GH) service deployed
+   as a shim-layer on the Galaxy based Globus Genomics platform.
 
 [back](./)
 
