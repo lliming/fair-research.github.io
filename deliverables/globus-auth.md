@@ -52,6 +52,8 @@ You will now see the DCPPC Demo Users group page. Click "Join Group”.
 
 ## Step 6: Submit Application to Join
 
+Now, you must complete your request to join the group. Click the pulldown menu labeled "Select which username to join as" and find the identity that appears on the DCPPC whitelist.  (This will usually be an identity from your home institution, but in some cases it might also be an "nihdatacommons.us" identity.)  If you do not see your whitelisted identity in the pulldown list, then you will have to logout of Globus (click "Account" in the upper-right corner and select "Logout") and return to Step 2.
+
 Fill in some informational fields and click "Submit Application to Join.”
 
 ![Join group page](joingroup2.png)
