@@ -22,6 +22,3 @@ To start with, we provide tools for working with:
 
 These tools and others support our [deliverables for the NIH Data Commons](deliverables/).
 
----
-
-This work was supported in part by NIH grant 1U54EB020406-01.
