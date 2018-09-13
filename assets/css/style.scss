@@ -7,6 +7,7 @@
   background-image: url(/assets/images/header_bg.jpg);
   background-position: center top;
   background-repeat: no-repeat;
+  background: #444;
 }
 
 header.inner {
@@ -23,7 +24,3 @@ header img {
 	-o-box-shadow: none;
 	-ms-box-shadow: none;
 }
-
-#header_wrap {
-  background: #444;
-  }
