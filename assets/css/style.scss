@@ -10,9 +10,13 @@
   background-repeat: no-repeat;
 }
 
-header.inner {
+#header_wrap .inner {
   /* background: rgba(0,0,0,0.6) */
-  padding-top: 35px;
+  padding: 35px 10px 15px 10px;
+}
+
+.inner {
+	max-width: 800px;
 }
 
 header img {
