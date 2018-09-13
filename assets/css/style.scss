@@ -3,6 +3,10 @@
 
 @import "jekyll-theme-slate";
 
+body {
+	font-size: 18px;
+}
+
 #header_wrap {
   background-color: #444;
   background-image: url(/assets/images/header_bg.jpg);
