@@ -4,10 +4,10 @@
 @import "jekyll-theme-slate";
 
 #header_wrap {
+  background-color: #444;
   background-image: url(/assets/images/header_bg.jpg);
   background-position: center top;
   background-repeat: no-repeat;
-  background: #444;
 }
 
 header.inner {
