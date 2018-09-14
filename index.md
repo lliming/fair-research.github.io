@@ -15,9 +15,9 @@ then you should want to organize your work so that its products are
 **Findable**, **Accessible**, **Interoperable**, and **Reusable**: in other words, **FAIR**.
 
 ---
-
-* [Big Data Bags (**BDBags**)](https://github.com/fair-research/bdbag): An exchange format for exchanging large and complex data collections.
-* [Minimum viable identifiers (**Minids**)](https://github.com/fair-research/minid): Lightweight identifiers that can be easily created, resolved, and used.
+<div style="width: 50%; padding:  15px 15px 0px 0px;">[Big Data Bags (**BDBags**)](https://github.com/fair-research/bdbag): An exchange format for exchanging large and complex data collections.</div>
+ 
+<div style="width: 50%; padding:  15px 0px 0px 0px;">[Minimum viable identifiers (**Minids**)](https://github.com/fair-research/minid): Lightweight identifiers that can be easily created, resolved, and used.</div>
 
 ---
 
