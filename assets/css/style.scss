@@ -62,7 +62,7 @@ img {
 	line-height: 1.2;
 }
 
-@media all and (min-width: 600px) {
+@media (min-width: 600px) {
   .grid-wrapper { 
   	grid-template-columns: 1fr;
   }
