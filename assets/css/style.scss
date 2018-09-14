@@ -39,3 +39,17 @@ header img, footer img {
 	line-height: 1.2em;
 	padding: 5px 5px 0px 5px;
 }
+.grid-wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+}
+.col-one {
+  grid-column: 1;
+  grid-row: 1;
+}
+.col-two { 
+  grid-column: 2;
+  grid-row: 1;
+}
