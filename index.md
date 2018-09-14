@@ -17,7 +17,12 @@ then you should want to organize your work so that its products are
 ---
 
 <div class="grid-wrapper">
-  <div class="col-one"><a href="https://github.com/fair-research/bdbag">Big Data Bags <strong>BDBags</strong></a>: An exchange format for exchanging large and complex data collections.</div>
+  <div class="col-one">
+  	<a href="https://github.com/fair-research/bdbag"><img src="/assets/images/icon_bdbags.png" title="Big Data Bag" alt="Big Data Bag" style="float: left; margin: 0px 15px 15px 0px;" width="180" /></a>
+  	<h3>Big Data Bags</h3>
+  	<p>An exchange format for exchanging large and complex data collections.</p>
+  	<p><a href="https://github.com/fair-research/bdbag">Explore the BDBag repository</a></p>
+  </div>
   <div class="col-two"><a href="https://github.com/fair-research/minid">Minimum viable identifiers <strong>Minids</strong></a>: Lightweight identifiers that can be easily created, resolved, and used.</div>
 </div>
 
