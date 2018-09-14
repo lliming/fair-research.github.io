@@ -39,17 +39,29 @@ img {
 	line-height: 1.2em;
 	padding: 5px 5px 0px 5px;
 }
+
 .grid-wrapper {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-gap: 15px;
+  grid-gap: 20px;
   grid-auto-rows: minmax(100px, auto);
+  margin-top: 15px;
 }
+
 .col-one {
   grid-column: 1;
   grid-row: 1;
 }
+
 .col-two { 
   grid-column: 2;
   grid-row: 1;
+}
+
+.grid-wrapper {
+	line-height: 1.2;
+}
+
+@media all and (min-width: 600px) {
+  .grid-wrapper { grid-template-columns: 1; }
 }
