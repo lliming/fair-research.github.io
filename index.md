@@ -23,7 +23,12 @@ then you should want to organize your work so that its products are
   	<p>An exchange format for exchanging large and complex data collections.</p>
   	<p><a href="https://github.com/fair-research/bdbag">Explore the BDBag repository</a></p>
   </div>
-  <div class="col-two"><a href="https://github.com/fair-research/minid">Minimum viable identifiers <strong>Minids</strong></a>: Lightweight identifiers that can be easily created, resolved, and used.</div>
+  <div class="col-two">
+  	<a href="https://github.com/fair-research/minid"><img src="/assets/images/icon_minid.png" title="Minimum Viable Identifiers" alt="Minimum Viable Identifiers" style="float: left; margin: 0px 15px 15px 0px;" width="190" /></a>
+  	<h3>Minimum Viable Identifiers</h3>
+  	<p>Lightweight identifiers that can be easily created, resolved, and used.</p>
+  	<p><a href="https://github.com/fair-research/minid">Explore the MINID repository</a></p>
+  </div>
 </div>
 
 ---
