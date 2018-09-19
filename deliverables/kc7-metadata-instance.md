@@ -5,7 +5,7 @@ title: FAIR Research Data - NIH DCPPC Deliverables
 
 # KC7 Controlled Access Crosscut Metadata Instance
 
-This page describes how to access the KC7 Controlled Access Crosscut Metadata Instance. This resource is specifically for operators of DCPPC Full Stacks who need to ingest the KC7 Controlled Access Crosscut Metadata Instance into their stacks. Because the Metadata Instance contains restricted data, access is limited to DCPPC members who are on the DCPPC DAR Whitelist. If you are not currently on the DAR Whitelist, use the DCPPC's on-boarding application to request access.
+This page describes how to access the KC7 Controlled Access Crosscut Metadata Instance. This resource is specifically for operators of DCPPC Full Stacks who need to ingest the KC7 Controlled Access Crosscut Metadata Instance into their stacks. Because the Metadata Instance contains restricted data, access is limited to DCPPC members who are on the DCPPC DAR Whitelist. If you are not currently on the DAR Whitelist, use the DCPPC's [on-boarding application](https://docs.google.com/forms/d/e/1FAIpQLScg6X7Ce5PdP6EeEGWBAojt1Y6nn65FRKxvM8MqattL8ZnieQ/viewform) to request access.
 
 The KC7 Controlled Access Crosscut Metadata Instance is stored in a secure Amazon AWS VPC. On this web page, you will find a [MINID](http://minid.bd2k.org/) (minimum viable identifier) that references the instance and includes an HTTPS (secure HTTP) link to it. The link can be used in any standard Web browser, but access to the file is secured by Team Argon's Globus service. You must authenticate to your white-listed identity to access the instance. The instance itself is a [BDBag](https://github.com/fair-research/bdbag).
 
