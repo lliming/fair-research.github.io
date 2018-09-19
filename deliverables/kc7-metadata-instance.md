@@ -18,12 +18,12 @@ Click the button below to open the Globus Web app and locate the DCPPC Metadata 
 > You must login to Globus using your white-listed identity, preferably one issued by your academic/research institution. Most DCPPC member institutions are available in Globus. If you are certain that yours is not, you may use ORCID if you have an ORCID ID or National Institutes of Health if you have an iTrust ID. Otherwise, please seek help (see the final section on this page) to identify an acceptable identity provider.
 
 <a href="https://app.globus.org/groups/042352c2-b2db-11e8-9a89-0e5621afa498/" target="_blank">
-  <img src="images/KC7-metadata-users-join-button.png" alt="Globus DCPPC Demo Users Group" style="width:241px;height:48px;border:0;">
+  <img src="images/KC7-metadata-users-join-button.png" alt="Globus DCPPC Metadata Users Group" style="width:241px;height:48px;border:0;">
 </a>
 
 > If you click this button and are not asked to login, please click "Account" in the left-side panel to ensure that you're already logged in with a white-listed identity. If you aren't, logout of the Globus Web app and login with your white-listed identity. Then click the button above to return to the DCPPC Metadata Users Group page.
 
-You will now see the DCPPC Demo Users group page. Click "Join this Group”.
+You will now see the DCPPC Metadata Users group page. Click "Join this Group”.
 
 ![Join group page](images/KC7-group-display.png)
 
@@ -31,7 +31,7 @@ You will now see the DCPPC Demo Users group page. Click "Join this Group”.
 
 Now, you must complete your request to join the group. Make certain that the identity selected in the "Select which username to join as" pulldown menu is an identity that appears on the DCPPC whitelist.
 
-Fill in some informational fields and click "Submit Application to Join.”
+Fill in some informational fields and click "Submit Application.”
 
 ![Join group page](images/KC7-group-join.png)
 
