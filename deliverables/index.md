@@ -26,7 +26,11 @@ Work supporting the [NIH Data Commons Pilot Phase Consortium](https://www.nihdat
    in CWL. It uses a portal to index and search the input datasets and
    submits to a WES (Workflow Execution Service - GA4GH) service deployed
    as a shim-layer on the Galaxy based Globus Genomics platform.
+*  [KC7 Controlled Access Crosscut Metadata Instance](kc7-metadata-instance.html) :
+   Instructions for DCPPC Full Stacks detailing how to access the KC7 Crosscut
+   Metadata Instance containing controlled-access (restricted) data. The metadata
+   instance is a Team Phosphorus KC7 product. Access is provided in order to
+   allow Full Stacks to ingest the metadata instance into their stacks for
+   DCPPC demonstrations. Access is restricted to white-listed identities.
 
 [back](./)
-
-
