@@ -9,8 +9,8 @@ title: FAIR Research Data - 6M.2.DEMO Argon
 of whole genome sequence data, with results that are findable,
 accessible, interoperable, and reusable: FAIR.
 
-*Method:* Leverage cloud computing and Commons tools to run the Whole Genome
-Sequence Annotator (WGSA) on many GTEx genomes, with identifiers,
+*Method:* Leverage cloud computing and [Commons](https://nihdatacommons.us) tools to run the [Whole Genome
+Sequence Annotator](https://sites.google.com/site/jpopgen/wgsa) (WGSA) on many [GTEx](https://gtexportal.org/) genomes, with identifiers,
 virtual cohorts, and reproducible pipelines used pervasively to ensure
 FAIRness. 
 
@@ -21,7 +21,7 @@ association studies that depend on rare variants lack statistical
 power. Combining annotations from many sources provides a
 comprehensive “genome map” boosting statistical power of association
 studies. We demonstrate a high performance, parallel implementation of
-TOPMed’s annotation pipeline that uses 70 annotation databases to
+[TOPMed](https://www.nhlbiwgs.org)’s annotation pipeline that uses 70 annotation databases to
 annotate the SNPs and Indels from 608 GTEx variant (VCF) files to
 create a data resource of millions of annotated variants that can then
 be used in genome-wide association studies. Each annotation process
@@ -44,14 +44,14 @@ format and referenced by GUIDs with agreed upon metadata
 conventions. Because the tools and services comprising this
 architecture build on interoperable components (e.g., OAuth2/OIDC used
 by Globus Auth) additional patterns emerge. This workflow can be
-driven from by a Jupyter notebook, beginning with calls to DERIVA or
+driven from by a [Jupyter](http://jupyter.org) notebook, beginning with calls to [DERIVA](http://docs.derivacloud.org) or
 another portal for cohort creation, through the computation and its
 requisite data handling, and back to DERIVA to associate the results
 with the original cohort.
 
 ## The Data
 
-The annotated VCFs are being aggregated into BDBags and assigned Minids (a type of KC2 GUID, [here's an example](https://identifiers.globus.org/ark:/57799/b95E1DXjoyity0)). We've made an [initial pull request](https://github.com/dcppc/full-stacks/pull/41) into the DCPPC Full Stacks repository to share these identifiers with the other teams. We'll update the new file created in that pull request (`gtex-wgs-annotated-vcf-wgsa.tsv`) as the annotation runs complete via additional pull requests. Also, the Minids will be ingested into our [DCPPC instance](https://nih-commons.derivacloud.org) of [DERIVA](http://docs.derivacloud.org) to tie these new files back to the original sequences.
+The annotated VCFs are being aggregated into BDBags and assigned Minids (a type of KC2 GUID, [here's an example](https://identifiers.globus.org/ark:/57799/b95E1DXjoyity0)). We've made an [initial pull request](https://github.com/dcppc/full-stacks/pull/41) into the [DCPPC Full Stacks repository](https://github.com/dcppc/full-stacks/) to share these identifiers with the other teams. We'll update the new file created in that pull request (`gtex-wgs-annotated-vcf-wgsa.tsv`) as the annotation runs complete via additional pull requests. Also, the Minids will be ingested into our [DCPPC instance](https://nih-commons.derivacloud.org) of [DERIVA](http://docs.derivacloud.org) to tie these new files back to the original sequences.
 
 ## Slides
 
