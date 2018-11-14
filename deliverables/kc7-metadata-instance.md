@@ -13,9 +13,9 @@ The KC7 Controlled Access Crosscut Metadata Instance is stored in a secure Amazo
 
 Access to the KC7 Controlled Access Crosscut Metadata Instance is authorized by membership in the DCPPC Metadata Users group in Globus. You must join this group to access the metadata instance.
 
-Click the button below to open the Globus Web app and locate the DCPPC Metadata Users group. 
+Click the button below to open the Globus Web app and locate the DCPPC Metadata Users group.
 
-> You must login to Globus using your white-listed identity, preferably one issued by your academic/research institution. Most DCPPC member institutions are available in Globus. If you are certain that yours is not, you may use ORCID if you have an ORCID ID or National Institutes of Health if you have an iTrust ID. Otherwise, please seek help (see the final section on this page) to identify an acceptable identity provider.
+> You must login to Globus using your white-listed identity, preferably one issued by your academic/research institution. Most DCPPC member institutions are available in Globus. Type a few letters of your organization's name and Globus should find it. Then, click `Continue` and login using your organization's login page. If you are certain that your organization is not listed, you may use your `nihdatacommons.us` identity. Select "Google" as your organization and click `Continue`. On the Google login page, select or enter your `nihdatacommons.us` email address. When prompted by Google, enter your password. Otherwise, please seek help (see the final section on this page) to identify an acceptable identity provider.
 
 <a href="https://app.globus.org/groups/042352c2-b2db-11e8-9a89-0e5621afa498/" target="_blank">
   <img src="images/KC7-metadata-users-join-button.png" alt="Globus DCPPC Metadata Users Group" style="width:241px;height:48px;border:0;">
