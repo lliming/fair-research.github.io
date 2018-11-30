@@ -16,11 +16,11 @@ FAIRness.
 
 ## Scalable, Cost-Controlled Analysis for Data Enrichment
 
-Large quantities of genome data are now available, but genome-wide
+Generating functional annotation of variants generated from analyzing whole genomes is an essential part of WGS data analysis. Large quantities of genome data are now available, but genome-wide
 association studies that depend on rare variants lack statistical
-power. Functional annotation of variants called from analyzing whole genomes is an essential part of WGS data analysis. Combining annotations from many sources provides a
+power.  Combining annotations from many sources provides a
 comprehensive “genome map” boosting statistical power of association
-studies. Additionally, annotations are useful to filter variants to suit the analysis of interest. For example, an analyst may be interested in variants that only enhance a particular function. 
+studies. Additionally, annotations are useful to filter variants to suit the analysess of interest. For example, an analyst may be interested in variants that only enhance a particular function. 
 
 The [TOPMed](https://www.nhlbiwgs.org) project uses a tool called WGSA (Whole Genome Sequence Annotator) tool for the annotation of variants generated from the project. The WGSA tool is availble as an Amazon Machine Image and is runnable from the Amazon Compute Cloud. However, it requires analysts to setup a cloud account, gain the expertise to instantiate the pipeline and assemble the required annotation databases. The default pipeline out of the box generates annotations serially using a single compute node where the pipeline is setup. This process can take weeks to months for a large set of variants and hence has the potential to drive up the compute costs of annotation. 
 
